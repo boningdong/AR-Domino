@@ -1,6 +1,6 @@
 # AR Domino Game
 
-This project is class project for UCSB CS291 class taught by Prof. Misha Sra.
+This project is class project for UCSB CS291 class taught by Prof. Misha Sra.\
 Teammates: Huake He, Zihao Zhang, Boning Dong
 
 ## Introduction
@@ -12,7 +12,7 @@ Players can place virtual Domino tiles in the game, place other virtual game obj
 objects to topple. In addition to interacting with the virtual objects, players can also interact with real-world objects, such as placing virtual objects on top of the detected real-world objects.
 
 ## UI Elements
-![GUI](https://github.com/boningdong/AR-Domino/Images/gui.png)
+![GUI](https://github.com/boningdong/AR-Domino/blob/master/Images/gui.png)
 The above figure exhibits the user interface layout of our app. 
 * In the center of the screen, a semi-transparent place indicator is presented to give users a concrete view on where the domino will be placed. 
 * In the bottom-right corner, a rotation ring is used for adjusting the face direction of the domino.
